@@ -1,8 +1,6 @@
 # Video_conference_website
 
-## What is it?
-
-This code sample demonstrates a one-to-one and group video call application built with [Video SDK RTC Javascript SDK]
+This code  demonstrates a one-to-one and group video call application built with [Video SDK RTC Javascript SDK]
 
 - Built for serverless video calling experience.
 - Scale it upto 5,000 participants with low code.
